@@ -16,6 +16,7 @@ __Programming Languages__
 ___
 
 __OS__
+
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=00FFFF"/>
 
 ___
