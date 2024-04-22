@@ -1,4 +1,4 @@
-###__Hi there 👋__.center()
+###<h1 align="center"> __Hi there 👋__.center()
 ___
 _I'm Rinard Akhmetzyanov.
 I program in python and a little in c++. I make telegram bots, move to the side
