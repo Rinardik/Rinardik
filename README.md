@@ -1,10 +1,10 @@
 <p class="center">Hi there 👋</p>
 
 ___
-_I'm Rinard Akhmetzyanov.
+I'm Rinard Akhmetzyanov.
 I program in python and a little in c++. I make telegram bots, move to the side
 M.L.
-<p>
+
   
 ___
 
@@ -25,4 +25,4 @@ ___
 <img src="https://t.me/rinardahm/_Telegram_-000000?style=for-the-badge&logo=Telegram&logoColor=00FFFF"/>
 
 ___
-</p>
+
