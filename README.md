@@ -1,4 +1,4 @@
-<p class="center">__Hi there 👋__</p>
+<p class="center">Hi there 👋</p>
 
 ___
 _I'm Rinard Akhmetzyanov.
