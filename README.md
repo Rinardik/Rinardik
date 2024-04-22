@@ -1,8 +1,10 @@
-<h3 align="center"__Hi there 👋__</h3> 
+<h3 align="center"__Hi there 👋__</h3>
+  
 ___
 _I'm Rinard Akhmetzyanov.
 I program in python and a little in c++. I make telegram bots, move to the side
 M.L._
+
 ___
 __Programming Languages__
 
