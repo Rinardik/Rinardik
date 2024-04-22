@@ -23,6 +23,5 @@ ___
 __My contacts__
 ___
 [<img src="https://img.shields.io/badge/_Telegram_-000000?style=for-the-badge&logo=Telegram&logoColor=00FFFF"/>](https://t.me/rinardahm)
-[<img src="https://img.shields.io/badge/_Telegram_-000000?style=for-the-badge&logo=Telegram&logoColor=00FFFF"/>](https://t.me/rinardahm)
 ___
 
