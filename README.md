@@ -1,5 +1,5 @@
 
-
+<div align="center">
 ### __About me__
 
 ____
