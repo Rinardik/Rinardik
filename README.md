@@ -1,18 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZoMHI3dmFrZTA0dGNwZDR3djZqZncwaWFtODRnbzB5MnF2OGg4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="75" height="50"/>
-</div>
 
-<div align="center">
-
-  [<img src="https://img.shields.io/badge/_Telegram_-008080?style=for-the-badge&logo=Telegram&logoColor="/>](https://t.me/rinardahm)
-  [<img src="https://img.shields.io/badge/VK-0000CD?style=for-the-badge&logo=Vk&logoColor="/>](https://vk.com/rinard2000)
-  [<img src="https://img.shields.io/badge/Gmail-FFF8DC?style=for-the-badge&logo=Gmail&logoColor="/>](https://rinardahmetzanov@gmail.com)
-
-  <img src="https://komarev.com/ghpvc/?username=Rinardik&style=flat-square&color=blue" alt=""/>
-</div>
-
-____
-<div align="center">
 
 ### __About me__
 
@@ -46,3 +32,18 @@ My stats:
 
 
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZoMHI3dmFrZTA0dGNwZDR3djZqZncwaWFtODRnbzB5MnF2OGg4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="75" height="50"/>
+</div>
+
+<div align="center">
+
+  [<img src="https://img.shields.io/badge/_Telegram_-008080?style=for-the-badge&logo=Telegram&logoColor="/>](https://t.me/rinardahm)
+  [<img src="https://img.shields.io/badge/VK-0000CD?style=for-the-badge&logo=Vk&logoColor="/>](https://vk.com/rinard2000)
+  [<img src="https://img.shields.io/badge/Gmail-FFF8DC?style=for-the-badge&logo=Gmail&logoColor="/>](https://rinardahmetzanov@gmail.com)
+
+  <img src="https://komarev.com/ghpvc/?username=Rinardik&style=flat-square&color=blue" alt=""/>
+</div>
+
+____
+<div align="center">
