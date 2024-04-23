@@ -6,7 +6,7 @@
 
   [<img src="https://img.shields.io/badge/_Telegram_-008080?style=for-the-badge&logo=Telegram&logoColor="/>](https://t.me/rinardahm)
   [<img src="https://img.shields.io/badge/VK-0000CD?style=for-the-badge&logo=Vk&logoColor="/>](https://vk.com/rinard2000)
-  [<img src="https://img.shields.io/badge/Gmail-FFF8DC?style=for-the-badge&logo=Gmail&logoColor="/>](rinardahmetzanov@gmail.com)
+  [<img src="https://img.shields.io/badge/Gmail-FFF8DC?style=for-the-badge&logo=Gmail&logoColor="/>](https://rinardahmetzanov@gmail.com)
 
   <img src="https://komarev.com/ghpvc/?username=Rinardik&style=flat-square&color=blue" alt=""/>
 </div>
