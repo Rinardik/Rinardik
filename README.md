@@ -31,15 +31,12 @@ __My OS__  :computer:
 
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=00CED1"/>
 
-I make telegram bots 
-:performing_arts:
+I make telegram bots :performing_arts:
 
 
-I study at school and Yandex Lyceum
-:books:
+I study at school and Yandex Lyceum  :books:
 
-I want to become an ML developer
-:alien:
+I want to become an ML developer  :alien:
 
 ___
 :sparkles:
