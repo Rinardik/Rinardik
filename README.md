@@ -9,7 +9,7 @@ __I program in__
 :scroll:
 :
 
-<img src="https://img.shields.io/badge/python-9B8127?style=for-the-badge&logo=python&logoColor="/>
+<img src="https://img.shields.io/badge/python-B8860B?style=for-the-badge&logo=python&logoColor="/>
 <img src="https://img.shields.io/badge/++-191970?style=for-the-badge&logo=C&logoColor=FFFFE0"/>
 
 
