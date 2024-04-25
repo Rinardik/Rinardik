@@ -32,6 +32,7 @@ My stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rinardik)](https://git.io/streak-stats)
 
 
+____
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZoMHI3dmFrZTA0dGNwZDR3djZqZncwaWFtODRnbzB5MnF2OGg4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="75" height="50"/>
@@ -46,5 +47,5 @@ My stats:
   <img src="https://komarev.com/ghpvc/?username=Rinardik&style=flat-square&color=blue" alt=""/>
 </div>
 
-____
+
 <div align="center">
