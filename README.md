@@ -29,7 +29,7 @@ ___
 :sparkles:
 My stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rinardik&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rinardik&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 
 </div>
