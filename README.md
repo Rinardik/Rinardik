@@ -16,7 +16,7 @@ __I program in__
 
 __My OS__  :computer:
 
-<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=00CED1"/>
+<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=0D98BA"/>
 
 I make telegram bots :performing_arts:
 
