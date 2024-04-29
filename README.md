@@ -15,7 +15,7 @@ __I program in__
 
 <div align="center">
   
-__My OS__   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBybW83OGFyenlhaTUyejJocGoycndobmd6eGZqcWhlZG5pcW1oNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vkCZgsnix2JcjL3ZF6/giphy.gif" width="50" height="25"/> <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=0D98BA"/>
+__My OS__   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBybW83OGFyenlhaTUyejJocGoycndobmd6eGZqcWhlZG5pcW1oNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vkCZgsnix2JcjL3ZF6/giphy.gif" width="30" height="15"/> <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=0D98BA" width="30" height="15"/>
  
 </div>
 
