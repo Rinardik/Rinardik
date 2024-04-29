@@ -13,14 +13,12 @@ __I program in__
 <img src="https://img.shields.io/badge/++-191970?style=for-the-badge&logo=C&logoColor=FFFFE0"/>
 
 
-
-__My OS__  
-</div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZoMHI3dmFrZTA0dGNwZDR3djZqZncwaWFtODRnbzB5MnF2OGg4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gifююююююююю" width="75" height="50"/>
+__My OS__  
+  :computer:
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBybW83OGFyenlhaTUyejJocGoycndobmd6eGZqcWhlZG5pcW1oNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vkCZgsnix2JcjL3ZF6/giphy.gif" width="75" height="50"/>
 </div>
 :computer:
-
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=0D98BA"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7D00FF&center=true&random=false&width=500&height=150&lines=I+make+telegram+bots+;I+study+at+school+and+Yandex+Lyceum;I+want+to+become+an+ML+developer)](https://git.io/typing-svg)
