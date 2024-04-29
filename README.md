@@ -30,7 +30,8 @@ ___
 :sparkles:
 My stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rinardik&theme=tokyonight) [![GitHub Streak](https://streak-stats.demolab.com?user=Rinardik&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rinardik&theme=tokyonight) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rinardik&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 
 
