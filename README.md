@@ -14,7 +14,12 @@ __I program in__
 
 
 
-__My OS__  :computer:
+__My OS__  
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZoMHI3dmFrZTA0dGNwZDR3djZqZncwaWFtODRnbzB5MnF2OGg4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gifююююююююю" width="75" height="50"/>
+</div>
+:computer:
 
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=0D98BA"/>
 
