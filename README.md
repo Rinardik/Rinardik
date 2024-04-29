@@ -18,7 +18,7 @@ __My OS__  :computer:
 
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=0D98BA"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7D00FF&center=true&random=false&width=435&lines=I+make+telegram+bots+;I+study+at+school+and+Yandex+Lyceum;I+want+to+become+an+ML+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7D00FF&center=true&random=false&width=600&height=200&lines=I+make+telegram+bots+;I+study+at+school+and+Yandex+Lyceum;I+want+to+become+an+ML+developer)](https://git.io/typing-svg)
 
 ___
 :sparkles:
