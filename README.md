@@ -32,7 +32,7 @@ My stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rinardik&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-Rinardik/master/profile-Rinardik/tokyonight/0-profile-details.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rinardik&theme=tokyonight)
 
 
 
