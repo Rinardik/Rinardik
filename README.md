@@ -7,10 +7,7 @@ ____
 
 __I program in__
 :scroll:
-:
-
-<img src="https://img.shields.io/badge/python-B8860B?style=for-the-badge&logo=python&logoColor=1164B4"/>
-<img src="https://img.shields.io/badge/++-191970?style=for-the-badge&logo=C&logoColor=FFFFE0"/>
+:<img src="https://img.shields.io/badge/python-B8860B?style=for-the-badge&logo=python&logoColor=1164B4"/>  __and__  <img src="https://img.shields.io/badge/++-191970?style=for-the-badge&logo=C&logoColor=FFFFE0"/>
 
 
 <div align="center">
