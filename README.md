@@ -6,8 +6,8 @@ __About me__
 ____
 
 __I program in__
-:scroll:
-:<img src="https://img.shields.io/badge/python-B8860B?style=for-the-badge&logo=python&logoColor=1164B4"/>  __and__  <img src="https://img.shields.io/badge/++-191970?style=for-the-badge&logo=C&logoColor=FFFFE0"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFvYWhnZzR1OTdiZ2doM3h2MGltdDNpYW82anZuNjIxNjRqb3U1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5a50CAL0vy0dH9A0wH/giphy.gif" width="30" height="15"/>
+:<img src="https://img.shields.io/badge/python-B8860B?style=for-the-badge&logo=python&logoColor=1164B4"/> && <img src="https://img.shields.io/badge/++-191970?style=for-the-badge&logo=C&logoColor=FFFFE0"/>
 
 
 <div align="center">
