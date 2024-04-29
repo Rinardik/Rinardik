@@ -25,6 +25,11 @@ I study at school and Yandex Lyceum  :books:
 
 I want to become an ML developer  :alien:
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7900F7&random=false&width=435&lines=I+program+in+Python+and+C%2B%2B;My+OS+Windows)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7900F7&random=false&width=435&lines=I+make+telegram+bots;I+study+at+school+and+Yandex+Lyceum;I+want+to+become+an+ML+developer)](https://git.io/typing-svg)
+
 ___
 :sparkles:
 My stats:
