@@ -32,7 +32,7 @@ My stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinardik&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinardik&show_icons=true&theme=tokyonight) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rinardik&theme=tokyonight&hide_total_contributions=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rinardik&theme=tokyonight&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
 
