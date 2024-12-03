@@ -23,11 +23,10 @@ I make telegram bots :performing_arts:
 
 I study at school and Yandex Lyceum  :books:
 
-I want to become an ML developer  :alien:
+I want to become an ML developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7900F7&background=2F000000&center=true&random=false&width=435&lines=I+program+in+Python+%26%26+C%2B%2B;My+OS+Windows;I+make+telegram+bots;I+study+at+school+and+Yandex+Lyceum;I+want+to+become+an+ML+developer)](https://git.io/typing-svg)
 ___
-:sparkles:
 My stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinardik&theme=tokyonight)
